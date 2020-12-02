@@ -108,5 +108,6 @@ image_size = (128, 128)
 X, y = load_data(dir_list, image_size)
 X_train, y_train, X_test, y_test = split_data(X, y)
 
-#model = build_model((256,256,1))
-#model.summary()
+model = build_model((image_size[0],image_size[1],1))
+model.summary()
+
