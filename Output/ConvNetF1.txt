@@ -1,0 +1,48 @@
+UNFILTERED
+
+epoch = 10 | batch size = 10 : 0.828282844921774
+epoch = 10 | batch size = 30 : 0.7500000186264513
+epoch = 10 | batch size = 50 : 0.755244735529081
+epoch = 10 | batch size = 70 : 0.7152317662724461
+epoch = 10 | batch size = 90 : 0.7152317662724461
+epoch = 10 | batch size = 110 : 0.7058823665533097
+epoch = 15 | batch size = 10 : 0.8545454718849875
+epoch = 15 | batch size = 30 : 0.84112148410275
+epoch = 15 | batch size = 50 : 0.7769784335239622
+epoch = 15 | batch size = 70 : 0.7625899481715378
+epoch = 15 | batch size = 90 : 0.7605633886057667
+epoch = 15 | batch size = 110 : 0.7105262955635205
+epoch = 20 | batch size = 10 : 0.8750000012544344
+epoch = 20 | batch size = 30 : 0.8595041459346516
+epoch = 20 | batch size = 50 : 0.8000000143051146
+epoch = 20 | batch size = 70 : 0.7826086893424195
+epoch = 20 | batch size = 90 : 0.8217054178677355
+epoch = 20 | batch size = 110 : 0.7297297225675938
+
+-----------------------------------------
+ENHANCED
+
+epoch = 10 | batch size = 10 : 0.8543689222292666
+epoch = 10 | batch size = 30 : 0.84112148410275
+epoch = 10 | batch size = 50 : 0.8037383321258466
+epoch = 10 | batch size = 70 : 0.7446808321220184
+epoch = 10 | batch size = 90 : 0.7843137030782996
+epoch = 10 | batch size = 110 : 0.6436781596910652
+epoch = 15 | batch size = 10 : 0.8909090887810573
+epoch = 15 | batch size = 30 : 0.8247422633407744
+epoch = 15 | batch size = 50 : 0.8037383321258466
+epoch = 15 | batch size = 70 : 0.818181795364569
+epoch = 15 | batch size = 90 : 0.796116526462387
+epoch = 15 | batch size = 110 : 0.8155339917180136
+epoch = 20 | batch size = 10 : 0.8909090887810573
+epoch = 20 | batch size = 30 : 0.8727272803330225
+epoch = 20 | batch size = 50 : 0.839285715882267
+epoch = 20 | batch size = 70 : 0.8695651973803687
+epoch = 20 | batch size = 90 : 0.8440366997460739
+epoch = 20 | batch size = 110 : 0.8108108162967014
+
+-----------------------------------------
+BEST
+
+UNFILTERED --- epoch = 20 | batch size = 10 : 0.8750000012544344
+ENHANCED ----- epoch = 20 | batch size = 10 : 0.8909090887810573
