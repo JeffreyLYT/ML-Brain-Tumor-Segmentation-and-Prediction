@@ -16,6 +16,6 @@
 * The report notebook saves files to the "./Output" directory and generates plots.
 
 The TumourIdentifier data was downloaded from https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
-The TumoutClassifier data was downlaoded from https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+The TumoutClassifier data was downloaded from https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
 For preprocessing and training the dataset we referenced the tutorial found at https://medium.com/@mohamedalihabib7/brain-tumor-detection-using-convolutional-neural-networks-30ccef6612b0
